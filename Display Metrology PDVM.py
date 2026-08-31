@@ -1,5 +1,5 @@
 # Copyright (c) 2026 Tobias Jianwei. All rights reserved.
-# DOI: [Insert Zenodo Software DOI here later]
+# DOI: https://doi.org/10.5281/zenodo.22211087
 # This code is licensed under the GNU General Public License v3.0 (GPLv3).
 # Foundational Methodology: 10.5281/zenodo.22211087
 
