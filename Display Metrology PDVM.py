@@ -1,7 +1,7 @@
 # Copyright (c) 2026 Tobias Jianwei. All rights reserved.
-# DOI: 10.5281/zenodo.22211087
+# DOI: [Insert Zenodo Software DOI here later]
 # This code is licensed under the GNU General Public License v3.0 (GPLv3).
-# Foundational Methodology: [Insert Paper Title/DOI]
+# Foundational Methodology: 10.5281/zenodo.22211087
 
 import matplotlib.pyplot as plt
 import numpy as np
