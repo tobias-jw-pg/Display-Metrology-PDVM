@@ -64,6 +64,8 @@ Under GPLv3, any modifications, adaptations, or derivative software built upon t
 
 ### 3. Absolute Limitation of Liability (No Warranty)
 This analytical tool is provided strictly "AS IS", without warranty of any kind, express or implied. 
-* **Not Medical Advice:** The PDVM framework is an experimental metrology tool bridging human factors and display engineering. It is **not** a medical diagnostic tool. 
-* **No Safety Endorsement:** Processing a display's waveform through this software and yielding a low PDVM score does not legally or medically certify a monitor as "safe," "flicker-free," or "ergonomic." 
+* **Not Medical Advice:** The PDVM framework is an experimental metrology tool bridging human factors and display engineering. It is **not** a medical diagnostic tool.
+
+* **No Safety Endorsement:** Processing a display's waveform through this software and yielding a low PDVM score does not legally or medically certify a monitor as "safe," "flicker-free," or "ergonomic."
+
 * **Liability:** The author (Tobias Jianwei) assumes zero liability for hardware purchasing decisions, commercial product claims, or physiological visual stress claims made by third parties using this software. Bad-faith actors misrepresenting these analytical outputs to market consumer electronics will be in violation of the intended scientific use case.
